@@ -1,0 +1,119 @@
+{
+  "main": {
+    "name": "Shreyans Gosalia",
+    "occupation": "Software Engineer",
+    "description": "A Tech-Enthusiast, passionate about Full-Stack Development",
+    "image": "Cropped.jpg",
+    "bio": "My name is Shreyans, I am an IT Engineer. I like developing new projects which help to solve real-world problems. ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "shreyansgosalia18@gmail.com",
+    "phone": "+91 9819498320",
+    "address": {
+      "street": "Mira Road(E)",
+      "city": "Mumbai",
+      "state": "India",
+      "zip": "401107"
+    },
+    "website": "http://bit.ly/2ZjaTT5",
+    "resumedownload": "http://bit.ly/2ZjaTT5",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/shreyans.gosalia/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shreyansgosalia/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/shreyansgosalia/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/shreyansgosalia18",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Mumbai",
+        "degree": "Bachelor's of Engineering in Information Technology",
+        "graduated": "October 2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "BNP Paribas India Solutions Pvt. Ltd.",
+        "title": "Software Development Engineer Intern",
+        "years": "January 2020 - March-2020",
+        "description": "Worked with Release Management Department.Helped in Automation of Environment which increased in testing speed."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      },
+      {
+        "name": "Docker",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Complete the Incomplete",
+        "category": "Augmented Reality Application",
+        "image": "CTIC-2.jpg",
+        "url": "https://www.youtube.com/watch?v=VdfPV84kPlI"
+      },
+      {
+        "title": "React Django Todo App",
+        "category": "Todo Application",
+        "image": "TodoApp.jpg",
+        "url": "https://github.com/shreyansgosalia18/React-Django-Todo-App"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Shreyans is an energetic lad, During his internship he was always ready for any challenge we gave him and also he used to solve them efficiently.",
+        "user": "Pratik Biswas - Tech Lead (BNP Paribas)"
+      }
+    ]   
+  }
+}
