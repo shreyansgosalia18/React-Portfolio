@@ -2,7 +2,7 @@
   "main": {
     "name": "Shreyans Gosalia",
     "occupation": "Software Engineer",
-    "description": "A Tech-Enthusiast, passionate about Full-Stack Development",
+    "description": "I am a Tech-Enthusiast, passionate about Full-Stack Development",
     "image": "Cropped.jpg",
     "bio": "My name is Shreyans, I am an IT Engineer. I like developing new projects which help to solve real-world problems. ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
@@ -51,11 +51,19 @@
     ],
     "work": [
       {
+        "company": "Wissen Technology",
+        "title": "Software Development Engineer",
+        "years": "October 2020 - Present",
+        "description": "Working with Morgan Stanley on the Financial Planning Workbench software used for forcasting the revenue of the firm."
+        
+      },
+      {
         "company": "BNP Paribas India Solutions Pvt. Ltd.",
         "title": "Software Development Engineer Intern",
         "years": "January 2020 - March-2020",
         "description": "Worked with Release Management Department.Helped in Automation of Environment which increased in testing speed."
       }
+      
     ],
     "skills": [
       {
